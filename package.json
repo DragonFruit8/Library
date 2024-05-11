@@ -1,0 +1,19 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonFruit8/Library.git"
+  },
+  "author": "Joshua Byers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonFruit8/Library/issues"
+  },
+  "homepage": "https://github.com/DragonFruit8/Library#readme"
+}
